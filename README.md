@@ -1,5 +1,7 @@
 # Olá, Mundo!
 
- Meu primeiro repositório versionado criado por @ndre_tomé.
+ Meu primeiro repositório versionado.
  
- criado em 1 de Dezembro de 2020
+ Criado por @ndre_tomé.
+ 
+ Em 1 de Dezembro de 2020
